@@ -1,6 +1,6 @@
 # My Portfolio
 <div align="center">
-  <h3>Welcome to My Portfolio website! :)<br/>Click here to view the websie 👇</h3>
+  <h3>Welcome to My Portfolio website! :)</h3>
   <img src="public/p3.png" width="600px" height="259px">
 </div>
 <br/>
